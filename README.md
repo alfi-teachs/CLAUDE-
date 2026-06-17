@@ -249,8 +249,16 @@ Tools let Claude interact with APIs, databases, files, and other systems.
 * **API Tool** → "Check weather information."
 
 ## Key Point
+Tools help Claude do tasks and get information from outside sources, not just answer with text.
 
-tools help claude perform actions and acess real-world data, not just generate text.
+Example:
+
+Search the web
+Read files
+Run code
+Access databases
+Use APIs
+
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Skills
 
