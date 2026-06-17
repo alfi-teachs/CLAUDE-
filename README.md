@@ -114,19 +114,23 @@ Claude can process:
 ---
 
 # Choose a Model
+## Choose a Model
 
 | Model         | Best For                      | Use Cases                                                        |
 | ------------- | ----------------------------- | ---------------------------------------------------------------- |
 | Claude Opus   | Highest intelligence          | Complex reasoning, research, advanced coding, data analysis      |
 | Claude Sonnet | Balanced performance and cost | Chatbots, coding, content creation, business applications        |
 | Claude Haiku  | Fastest and cheapest          | Quick responses, summarization, classification, customer support |
+| Claude Fable  | Long-running AI agents        | Autonomous workflows, multi-step tasks, agentic applications     |
+| Claude Mythos | Knowledge-intensive reasoning | Deep research, large-scale analysis, complex decision making     |
 
 ### Quick Rule
 
-* **Opus** → Most capable
+* **Opus** → Most capable general-purpose model
 * **Sonnet** → Best balance of speed, cost, and intelligence
 * **Haiku** → Fastest and lowest cost
-
+* **Fable** → Best for long-running autonomous agents
+* **Mythos** → Best for deep knowledge and complex reasoning
 ---
 
 # Quick Flow
