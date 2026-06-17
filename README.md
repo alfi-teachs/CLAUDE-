@@ -131,6 +131,7 @@ Claude can process:
 * **Haiku** → Fastest and lowest cost
 * **Fable** → Best for long-running autonomous agents
 * **Mythos** → Best for deep knowledge and complex reasoning
+* 
 ---
 
 # Quick Flow
