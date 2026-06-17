@@ -294,6 +294,28 @@ Skills teach Claude **how to perform a task** using your instructions and proced
 ### Key Point
 
 Use a Skill when you want Claude to follow a specific process, format, or workflow.
+-------------------------------------------------------------------------------------------------------------------------------------
+MCP (Model Context Protocol)
+
+MCP is a standard protocol that allows AI models like Claude to connect with external tools, applications, databases, and services.
+
+Benefits
+Connects Claude to external systems
+Provides access to real-time data
+Enables tool usage across different applications
+Standardizes communication between AI and tools
+Examples
+
+Using MCP, Claude can connect to:
+
+Databases
+GitHub
+Google Drive
+APIs
+File systems
+Key Point
+
+MCP acts like a USB-C port for AI, allowing Claude to securely interact with external tools and data sources.
 
 
 
