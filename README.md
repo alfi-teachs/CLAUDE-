@@ -171,3 +171,21 @@ Receive Response
 * **Opus** → Most capable
 * **Sonnet** → Best balance of speed, cost, and intelligence
 * **Haiku** → Fastest and lowest cost
+
+```python
+models = ["claude-haiku-4-5", "claude-sonnet-4-6", "claude-opus-4-7"]
+
+for model in models:
+    response = client.messages.create(
+        model=model,
+        max_tokens=300,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+    )
+
+    print(model, response.usage)
+```
