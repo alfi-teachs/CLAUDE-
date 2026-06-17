@@ -189,3 +189,17 @@ for model in models:
 
     print(model, response.usage)
 ```
+## What is an Agent?
+
+An **Agent** is Claude that can work on its own. It receives a task, uses tools, and keeps working until the task is finished.
+
+### Agent Steps
+
+1. User gives a task.
+2. Claude chooses a tool.
+3. Tool runs and returns a result.
+4. Claude uses the result.
+5. Repeat until the task is complete.
+-------------------------------------------------------------------------------------------------------------------------------
+
+
