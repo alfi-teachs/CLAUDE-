@@ -252,12 +252,11 @@ Tools let Claude interact with APIs, databases, files, and other systems.
 Tools help Claude do tasks and get information from outside sources, not just answer with text.
 
 Example:
-
-Search the web
-Read files
-Run code
-Access databases
-Use APIs
+Search the web ,
+Read files ,
+Run code ,
+Access databases ,
+Use APIs .
 
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Skills
