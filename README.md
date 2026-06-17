@@ -224,7 +224,7 @@ Claude → Returns the answer
 * **Description** – What the tool does
 * **Input Schema** – Information the tool needs
 
-### Key Point
+## Key Point
 
 Tools let Claude interact with APIs, databases, files, and other systems.
 
@@ -248,9 +248,9 @@ Tools let Claude interact with APIs, databases, files, and other systems.
 * **Database Tool** → "Get customer records."
 * **API Tool** → "Check weather information."
 
-### Key Point
+## Key Point
 
-Tools allow Claude to go beyond text generation and interact with real-world data and systems.
+tools help claude perform actions and acess real-world data, not just generate text.
 --------------------------------------------------------------------------------------------------------------------------------------
 ## Skills
 
