@@ -349,8 +349,31 @@ With MCP:
 * Provides up-to-date data
 
 ### Key Point
+MCP helps claude get the righr context from external sources when needed , instead of storing everything in the conversation.
 
-MCP helps Claude get the right context from external sources when needed, instead of storing everything in the conversation.
+---------------------------------------------------------------------------------------------------------------------------------
+## Claude Managed Agents
+
+Claude Managed Agents are AI agents hosted and managed by Claude.
+
+### How They Work
+
+* Receive a task from the user
+* Use tools when needed
+* Perform multiple steps automatically
+* Continue working until the task is complete
+* Return the final result
+
+### Benefits
+
+* No need to build your own agent loop
+* Claude handles planning and tool usage
+* Easier to create autonomous AI workflows
+
+### Key Point
+
+Claude Managed Agents can independently complete tasks by planning actions, using tools, and delivering results.
+
 
 
 
