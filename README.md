@@ -111,8 +111,6 @@ Claude can process:
 * Structured Data
 
 ---
-
-# Choose a Model
 ## Choose a Model
 
 | Model         | Best For                      | Use Cases                                                        |
@@ -132,7 +130,7 @@ Claude can process:
 * **Mythos** → Best for deep knowledge and complex reasoning
 ---
 
-# Quick Flow
+## Quick Flow
 
 ```text
 Create Account
@@ -158,19 +156,6 @@ Send API Request
 Receive Response
 ```
 
-## Choose a Model
-
-| Model         | Best For                      | Use Cases                                                        |
-| ------------- | ----------------------------- | ---------------------------------------------------------------- |
-| Claude Opus   | Highest intelligence          | Complex reasoning, research, advanced coding, data analysis      |
-| Claude Sonnet | Balanced performance and cost | Chatbots, coding, content creation, business applications        |
-| Claude Haiku  | Fastest and cheapest          | Quick responses, summarization, classification, customer support |
-
-### Quick Rule
-
-* **Opus** → Most capable
-* **Sonnet** → Best balance of speed, cost, and intelligence
-* **Haiku** → Fastest and lowest cost
 
 ```python
 models = ["claude-haiku-4-5", "claude-sonnet-4-6", "claude-opus-4-7"]
