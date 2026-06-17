@@ -248,7 +248,7 @@ Tools let Claude interact with APIs, databases, files, and other systems.
 * **Database Tool** → "Get customer records."
 * **API Tool** → "Check weather information."
 
-## Key Point
+### Key Point
 Tools help Claude do tasks and get information from outside sources, not just answer with text.
 
 Example:
@@ -283,7 +283,7 @@ A Skill is a folder that contains:
 * Release notes template
 * Company-specific procedures
 
-# Key Point
+### Key Point
 
 Skills help Claude perform specialized tasks consistently by following your predefined instructions and workflow.
 
