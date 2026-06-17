@@ -201,5 +201,30 @@ An **Agent** is Claude that can work on its own. It receives a task, uses tools,
 4. Claude uses the result.
 5. Repeat until the task is complete.
 -------------------------------------------------------------------------------------------------------------------------------
+## What are Tools?
 
+Tools help Claude perform actions and access external systems.
+
+* You create the tool.
+* Claude decides when to use it.
+* Your code runs the tool.
+* The result is sent back to Claude.
+
+### Example
+
+User: "What is the weather today?"
+
+Claude → Uses a weather tool
+Tool → Gets weather data
+Claude → Returns the answer
+
+### A Tool Has
+
+* **Name** – Tool name
+* **Description** – What the tool does
+* **Input Schema** – Information the tool needs
+
+### Key Point
+
+Tools let Claude interact with APIs, databases, files, and other systems.
 
