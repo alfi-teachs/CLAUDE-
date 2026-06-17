@@ -228,3 +228,28 @@ Claude → Returns the answer
 
 Tools let Claude interact with APIs, databases, files, and other systems.
 
+## Common Claude Tools
+
+| Tool           | Purpose                                           |
+| -------------- | ------------------------------------------------- |
+| Web Search     | Search the internet for current information       |
+| Web URL        | Read and analyze content from a specific webpage  |
+| Code Execution | Run code, perform calculations, and process data  |
+| File Tool      | Read, analyze, and extract information from files |
+| Database Tool  | Query and retrieve data from databases            |
+| API Tool       | Connect to external applications and services     |
+
+### Example
+
+* **Web Search** → "Latest Kubernetes version?"
+* **Web URL** → "Summarize this article."
+* **Code Execution** → "Calculate sales data."
+* **File Tool** → "Analyze this PDF."
+* **Database Tool** → "Get customer records."
+* **API Tool** → "Check weather information."
+
+### Key Point
+
+Tools allow Claude to go beyond text generation and interact with real-world data and systems.
+--------------------------------------------------------------------------------------------------------------------------------------
+
