@@ -280,4 +280,20 @@ A Skill is a folder that contains:
 
 Skills help Claude perform specialized tasks consistently by following your predefined instructions and workflow.
 
+## Skills
+
+Skills teach Claude **how to perform a task** using your instructions and procedures.
+
+* A Skill contains a `SKILL.md` file, scripts, and resources.
+* **Tools = What Claude can do**
+* **Skills = How Claude should do it**
+* Upload a Skill once and reuse it in multiple requests.
+* Multiple Skills can be attached to a single request.
+* Skills can work with tools like code execution.
+
+### Key Point
+
+Use a Skill when you want Claude to follow a specific process, format, or workflow.
+
+
 
