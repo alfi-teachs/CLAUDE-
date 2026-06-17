@@ -252,4 +252,32 @@ Tools let Claude interact with APIs, databases, files, and other systems.
 
 Tools allow Claude to go beyond text generation and interact with real-world data and systems.
 --------------------------------------------------------------------------------------------------------------------------------------
+## Skills
+
+Skills are reusable instructions that teach Claude how to perform a specific task.
+
+A Skill is a folder that contains:
+
+* `SKILL.md` (instructions)
+* Scripts (optional)
+* Resources (optional)
+
+### How It Works
+
+1. Create a Skill.
+2. Upload it once.
+3. Attach it to a `messages.create()` request.
+4. Claude follows the instructions in the Skill.
+
+### Examples
+
+* Status report format
+* Code review checklist
+* Release notes template
+* Company-specific procedures
+
+### Key Point
+
+Skills help Claude perform specialized tasks consistently by following your predefined instructions and workflow.
+
 
