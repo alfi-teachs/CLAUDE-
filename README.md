@@ -276,7 +276,7 @@ A Skill is a folder that contains:
 * Release notes template
 * Company-specific procedures
 
-### Key Point
+# Key Point
 
 Skills help Claude perform specialized tasks consistently by following your predefined instructions and workflow.
 
